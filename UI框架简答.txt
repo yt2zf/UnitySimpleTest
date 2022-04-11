@@ -1,0 +1,15 @@
+自己编码过的Unity UI框架
+
+UIManager：
+	1. 窗体预设加载
+	2. 窗体缓存管理
+
+MessageBox:
+	消息框：确认与取消的回调
+
+UIWorldElementManager:
+	挂在人物/NPC上的UI管理，
+	创建与销毁，更新位置
+
+消息传递：其他系统抛出事件/委托，UI系统注册
+
